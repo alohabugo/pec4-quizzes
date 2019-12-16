@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quizzes</string>
+    <string name="send">send</string>
+    <string name="choice1">Choice 1</string>
+    <string name="choice2">Choice 2</string>
+    <string name="title">The title</string>
+    <string name="example">Example</string>
+    <string name="rigth">RIGHT!!</string>
+    <string name="failed">You have failed, try again!!</string>
+    <string name="next">Next</string>
+    <string name="startAgain">Start Again</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="congrats">Congratulations! \nYou have finished the lesson!</string>
+    <string name="SELECT_ONE_ANSWER">Please, select one answer!</string>
+</resources>
